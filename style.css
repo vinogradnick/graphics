@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color: #303F9F;
+}
+.workspace .sidebar{
+    background-color: #C5CAE9;
+    height: 100vh;
+    width: 5%;
+}
